@@ -1,0 +1,2 @@
+Welcome to dolphin 4.0.2 setup
+press next to advance
